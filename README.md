@@ -1,105 +1,53 @@
+<h1 align="center">MAX</h1>
+<h3 align="center">Robotics Software Engineer | Builder | Life Enjoyer</h3>
 <div align="center">
 
-# ⚙️ SYSTEM_BOOT: max.exe
 
+<img width="500" height="500" alt="test" src="https://github.com/user-attachments/assets/6df5b250-01ea-4019-b2d1-33fd00e7cc97" />
+
+
+ 
 </div>
 
----
-
-### 📡 STATUS REPORT
-
-```yaml
-role: Robotics Engineer / Builder
-current_focus: Machine Learning & Reinforcement Learning
-achievements:
-  - hackathon: "[Name] — 1st place 🏆"
-  - projects_shipped: X+
-uptime_dependencies:
-  - climbing (weekly, non-negotiable)
-  - cats (constant supervision required)
-  - valheim (base still under construction, 200+ hours in)
-```
+<p align="center">
+</p>
 
 ---
 
-### 🧠 CORE_MODULES
+### About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Robotics**
-Building things that move, sense, and (mostly) do what I tell them to.
-`[control systems] [perception] [ROS] [embedded]`
-
-</td>
-<td width="50%" valign="top">
-
-**🧬 ML / RL**
-Currently training agents that fail faster than I do.
-`[PyTorch] [Gymnasium] [policy gradients]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏆 Hackathons**
-One win, several near-death sleep-deprivation experiences.
-`[rapid prototyping] [duct-tape architecture]`
-
-</td>
-<td width="50%" valign="top">
-
-**🧗 Climbing**
-Debugging robots all week, debugging beta on the wall all weekend.
-`[bouldering] [send counter: rising]`
-
-</td>
-</tr>
-</table>
+- ROBOTICS: F1TENTH x2 | secbot w/ IEEE | Perception w/ Andruil competition
+- SOFTWARE PROJECTS: Web apps | react projects, custom simulators
+- x1 HACKATHON WINNER: BloomKnights - knighthacks summer 2026 @ UCF
+- ML and RL consume me
 
 ---
 
-### 📂 FEATURED_BUILDS
+### Tech Stack
 
-> *Log entries from `/projects`*
-
-```
-$ cat hackathon_winner.md
-> [PROJECT NAME] — one-line pitch of what it does
-> stack: X, Y, Z | status: 🏆 1st place @ [event]
-
-$ cat robotics_flagship.md
-> [PROJECT NAME] — one-line pitch
-> stack: X, Y, Z | status: operational
-
-$ cat rl_experiment.md
-> [PROJECT NAME] — teaching a thing to learn a thing
-> stack: X, Y, Z | status: training...
-```
-
-*(Link each `[PROJECT NAME]` to its repo — e.g. `[PROJECT NAME](https://github.com/you/repo)`)*
-
----
-
-### 🐱 SIDE_PROCESSES (non-terminatable)
-
-```
-Process: cat.exe        | Priority: CRITICAL | Status: sleeping on keyboard
-Process: valheim.exe    | Priority: HIGH     | Status: base under siege
-Process: climbing.exe   | Priority: HIGH     | Status: awaiting weekend.trigger
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RViz-006699?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <!-- add/remove badges to match your actual stack -->
+</p>
 
 ---
 
-<div align="center">
 
-### 📡 CONNECT
+### Reach out @
 
-[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail)](mailto:you@email.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin)](https://linkedin.com/in/you)
-
-`[ END_OF_LOG ]`
-
-</div>
+<p align="center">
+  <a href="mailto:maxwell.lokshin@2zick.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/maxwelllokshin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
