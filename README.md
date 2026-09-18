@@ -1,16 +1,6 @@
 <div align="center">
 
-# ⚙️ SYSTEM_BOOT: [YOUR_NAME].exe
-
-```
-[ INITIALIZING PROFILE... ]
-[ LOADING MODULES... ]
-[ ROBOTICS_CORE    ] ████████████████████ 100%
-[ ML/RL_ENGINE     ] ████████████░░░░░░░░  65% (learning...)
-[ CLIMBING_MODULE  ] ████████████████████ 100% (send it)
-[ CAT_DEPENDENCY   ] ████████████████████ 100% (required for uptime)
-[ VALHEIM_DAEMON   ] ████████████████████ 100% (running in background, always)
-```
+# ⚙️ SYSTEM_BOOT: max.exe
 
 </div>
 
